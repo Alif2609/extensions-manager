@@ -303,7 +303,7 @@ body[data-theme="dark"] .logo svg path[fill="#091540"] {
   }
 
   .header {
-    margin: 2rem 8% 4rem;
+    margin: 2rem 8% 1rem;
   }
 
   .title-filter {
@@ -333,3 +333,4 @@ body[data-theme="dark"] .logo svg path[fill="#091540"] {
     height: 220px;
   }
 }
+
